@@ -1,0 +1,11 @@
+/**
+ * UI fixed for Smart Link and Plone 4 Sunburst Theme
+ */
+
+.icons-on .contenttype-link {
+    background: none;
+}
+
+.icons-on .contenttype-link {
+    padding-left: 0 !important;
+}

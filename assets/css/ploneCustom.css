@@ -1,0 +1,23 @@
+
+/* - ploneCustom.css - */
+@media all {
+
+/*** riportati nel tema nella versione 0.1.2 ****/
+.Bando{
+   margin-top: 0em !important;
+   margin-bottom: 2em !important;
+}
+
+.Bando p{
+   margin-bottom: 0px !important;
+   margin-top: 0px !important;
+   padding-bottom: 0px !important;
+   padding-top: 3px !important; 
+}
+
+#viewlet-social-like iframe {
+   width: 100px !important;
+}
+/**********************************************/
+}
+
